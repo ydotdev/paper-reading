@@ -1,6 +1,6 @@
 # Reading List
 
-Repository to track research papers and books I have read.
+Repository to track research papers I have read.
 
 ## Philosophy
 
